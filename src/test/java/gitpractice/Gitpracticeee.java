@@ -1,6 +1,6 @@
 package gitpractice;
 
-public class Gitpracticee {
+public class Gitpracticeee {
 	public static void main(String[] args) {
 		
 		System.out.println(" ur salary 28000 is credited");
